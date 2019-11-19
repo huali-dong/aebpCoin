@@ -8,7 +8,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 @SpringBootTest
 class AebpTestApplicationTests {
-	
+
 	@Test
 	void should_return_a_coin_when_given_whole_number() {
 
